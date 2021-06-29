@@ -1,3 +1,13 @@
-main-headder {
+.main-headder {
     color: blue;
+    text-align: center;
+}
+.background {
+    background-image: url("indexbackground.jpg");
+    background-color: grey;
+}
+.nav {
+    background-color: white;
+    background-position: center;
+    height: 100px;
 }
