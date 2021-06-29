@@ -1,6 +1,10 @@
 .main-headder {
     color: blue;
     text-align: center;
+    position: relative;
+}
+.headder-title {
+    position: relative;
 }
 .background {
     background-image: url("indexbackground.jpg");
