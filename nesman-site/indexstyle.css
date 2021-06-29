@@ -9,6 +9,7 @@
 .background {
     background-image: url("indexbackground.jpg");
     background-color: grey;
+    background-size: cover;
 }
 .nav {
     background-color: white;
